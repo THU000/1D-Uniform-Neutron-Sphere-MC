@@ -1,0 +1,5 @@
+neutron.m      主程序
+exponential_random_samples.m   指数分布抽样
+omega_calculate.m     计算散射后方向
+omega_new.m         裂变后中子方向
+test.m          测试和DeBug
